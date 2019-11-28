@@ -1,0 +1,12 @@
+{
+"companyName": "BigfootDS",
+"productName": "Awesome WebVR Rollercoaster",
+"dataUrl": "My Fleeting Rollercoaster.data.unityweb",
+"wasmCodeUrl": "My Fleeting Rollercoaster.wasm.code.unityweb",
+"wasmFrameworkUrl": "My Fleeting Rollercoaster.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
